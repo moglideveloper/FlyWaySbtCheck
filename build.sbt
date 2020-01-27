@@ -1,0 +1,1 @@
+lazy val fwc = (project in file("."))
